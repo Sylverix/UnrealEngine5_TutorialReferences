@@ -1,9 +1,11 @@
 # Unreal Engine 5 Tutorial References
-This is a repository that houses a README file of `How-Tos` for Unreal Engine 5. I'm currently trying to learn Unreal Engine 5 and wanted to make a pseudo knowledge base for tutorials that I've discovered that were basic and easy to comprehend.
+This repository contains a README file of `How-Tos` for Unreal Engine 5. As I'm learning Unreal Engine 5, I've created a pseudo-knowledge base of tutorials that are basic and easy to understand.
 
-I decided to make this reference guide as I find myself always trying to recreate the items/objects/actions in this list. This is a WIP as I'll be updating this as I find more tutorials with basic, maybe crucial, information.
+I decided to make this reference guide because I often find myself recreating the same items, objects, and actions in various learning projects. This is a work in progress, and I'll continue to update it with more tutorials featuring basic and potentially crucial information.
 
-This README file is also based of the fact that I'm working strictly with the `Third Person Template` in the Unreal Engine launcher.
+There will also be sections that I've custom-created based on my own experiments when trying to get things to work, especially when I haven't found any good YouTube tutorials. For example: `4. How-To: Add Sprint Animation Locomotion (WIP) (Photos Only ATM)`.
+
+Please note that this README file is specifically tailored to work with the `Third Person Template` in the Unreal Engine launcher.
 
 ## (Optional Learning)
 * YouTube Playlist containing visual blueprint scripting fundamentals: https://youtube.com/playlist?list=PL2A3wMhmbeAq3WOT7kQ0EGby1YMb0zj5_&si=GmllEo98pr5od-Qm
