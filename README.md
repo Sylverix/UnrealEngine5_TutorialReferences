@@ -33,4 +33,13 @@ I decided to make this reference guide as I find myself always trying to recreat
 ![image](https://github.com/user-attachments/assets/25991381-5618-45d3-aeb0-98e461bdc7ae)
 ![image](https://github.com/user-attachments/assets/439e2952-cff8-4183-98ad-43ff420da12f)
 ![image](https://github.com/user-attachments/assets/6e390d2b-880f-4b43-b15e-5c85ce699f15)
+![image](https://github.com/user-attachments/assets/7392e394-1932-4447-a915-0eeb06a3e3c4)
+
+
+## 7. How-To: Add Sprint Animation Locomotion
+![image](https://github.com/user-attachments/assets/e16e4fce-6548-4d34-ad65-068795b18ca7)
+![image](https://github.com/user-attachments/assets/10cc6bee-a86b-4e36-8435-8114cb9b7331)
+![image](https://github.com/user-attachments/assets/cc4cdbbf-7721-4df5-b908-9aa293117fb8)
+![image](https://github.com/user-attachments/assets/da0de004-4f3a-4ec0-857d-cdb52021e8df)
+![image](https://github.com/user-attachments/assets/0445d8a4-893c-46c1-a450-f06216fd12ac)
 
