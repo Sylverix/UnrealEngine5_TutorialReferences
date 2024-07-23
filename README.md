@@ -7,5 +7,3 @@ This is a repository that houses README files of basic "How-Tos" for Unreal Engi
 4. How-To: Add Jump Input
 5. How-To: Add Sprint Input
 6. How-To: Add Crouch Input
-
-![image](https://github.com/user-attachments/assets/40f975e1-8b02-4803-a343-f90f534511d4)
