@@ -15,7 +15,7 @@ YouTube Video Tutorial: https://www.youtube.com/watch?v=Z9zEEY7dGaM&t=759s
 YouTube Video Tutorial: https://www.youtube.com/watch?v=Y8dZJtIvris&list=PLFuQoM4mOizQ89-INdN3eJv1P-r1tnCJM&index=2
 
 
-## 7. How-To: Add Sprint Animation Locomotion
+## 4. How-To: Add Sprint Animation Locomotion (WIP) (Photos Only ATM)
 ![image](https://github.com/user-attachments/assets/e16e4fce-6548-4d34-ad65-068795b18ca7)
 ![image](https://github.com/user-attachments/assets/10cc6bee-a86b-4e36-8435-8114cb9b7331)
 ![image](https://github.com/user-attachments/assets/cc4cdbbf-7721-4df5-b908-9aa293117fb8)
