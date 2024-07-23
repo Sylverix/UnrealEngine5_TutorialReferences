@@ -3,6 +3,8 @@ This is a repository that houses a README file of "How-Tos" for Unreal Engine 5.
 
 I decided to make this reference guide as I find myself always trying to recreate the items/objects/actions in this list. This is a WIP as I'll be updating this as I find more tutorials with basic, maybe crucial, information.
 
+This README file is also based of the fact that I'm working strictly with the "Third Person Template" in the Unreal Engine launcher.
+
 ## (Optional Learning)
 * YouTube Playlist containing visual blueprint scripting fundamentals: https://youtube.com/playlist?list=PL2A3wMhmbeAq3WOT7kQ0EGby1YMb0zj5_&si=GmllEo98pr5od-Qm
 
