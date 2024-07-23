@@ -1,5 +1,7 @@
 # UnrealEngine5_TutorialReferences
-This is a repository that houses README files of basic "How-Tos" for Unreal Engine 5.
+This is a repository that houses a README file of "How-Tos" for Unreal Engine 5. I'm currently trying to learn Unreal Engine 5 and wanted to make a pseudo knowledge base for tutorials that I've discovered that were basic and easy to comprehend.
+
+I decided to make this reference guide as I find myself always trying to recreate the items/objects/actions in this list. This is a WIP as I'll be updating this as I find more tutorials with basic, amybe crucial, information.
 
 ## 1. How-To: Add Input Mappings to Player
 ![image](https://github.com/user-attachments/assets/8a017d64-0deb-4e04-9c9c-2f9850bb0664)
