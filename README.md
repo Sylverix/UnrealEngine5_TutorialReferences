@@ -12,7 +12,7 @@ I decided to make this reference guide as I find myself always trying to recreat
 
 
 ## 3. How-To: Add Movement Input
-![image](https://github.com/user-attachments/assets/a111bc7e-786d-4602-83ea-328df86c4dce)
+![image](https://github.com/user-attachments/assets/3b86b11d-3c47-4fed-b26b-00a897ad124d)
 
 
 ## 4. How-To: Add Jump Input
