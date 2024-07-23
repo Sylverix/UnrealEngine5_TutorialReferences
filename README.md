@@ -3,17 +3,17 @@ This is a repository that houses a README file of "How-Tos" for Unreal Engine 5.
 
 I decided to make this reference guide as I find myself always trying to recreate the items/objects/actions in this list. This is a WIP as I'll be updating this as I find more tutorials with basic, maybe crucial, information.
 
+## (Optional Learning)
+* YouTube Playlist containing visual blueprint scripting fundamentals: https://youtube.com/playlist?list=PL2A3wMhmbeAq3WOT7kQ0EGby1YMb0zj5_&si=GmllEo98pr5od-Qm
+
 ## 1. How-To: Add Input Mappings to Player, Add Camera Input, Add Movement Input, Add Jump Input
 YouTube Video Tutorial: https://www.youtube.com/watch?v=Z9zEEY7dGaM&t=759s
-
 
 ## 2. How-To: Add Sprint Input
 YouTube Video Tutorial: https://www.youtube.com/watch?v=Z9zEEY7dGaM&t=759s
 
-
 ## 3. How-To: Add Crouch Input
 YouTube Video Tutorial: https://www.youtube.com/watch?v=Y8dZJtIvris&list=PLFuQoM4mOizQ89-INdN3eJv1P-r1tnCJM&index=2
-
 
 ## 4. How-To: Add Sprint Animation Locomotion (WIP) (Photos Only ATM)
 ![image](https://github.com/user-attachments/assets/e16e4fce-6548-4d34-ad65-068795b18ca7)
