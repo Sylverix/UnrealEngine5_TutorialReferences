@@ -20,6 +20,9 @@ YouTube Video Tutorial: https://www.youtube.com/watch?v=Z9zEEY7dGaM&t=759s
 YouTube Video Tutorial: https://www.youtube.com/watch?v=Y8dZJtIvris&list=PLFuQoM4mOizQ89-INdN3eJv1P-r1tnCJM&index=2
 
 ## 4. How-To: Add Sprint Animation Locomotion (WIP) (Photos Only ATM)
+Animation used: https://www.mixamo.com/#/?page=1&query=sprint&type=Motion%2CMotionPack
+![image](https://github.com/user-attachments/assets/85dd83b3-08c7-46ca-9e2d-6eac3ae36ea9)
+### Steps involving pictures at the moment:
 ![image](https://github.com/user-attachments/assets/e16e4fce-6548-4d34-ad65-068795b18ca7)
 ![image](https://github.com/user-attachments/assets/10cc6bee-a86b-4e36-8435-8114cb9b7331)
 ![image](https://github.com/user-attachments/assets/cc4cdbbf-7721-4df5-b908-9aa293117fb8)
