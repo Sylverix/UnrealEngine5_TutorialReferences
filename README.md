@@ -4,6 +4,7 @@ This is a repository that houses a README file of "How-Tos" for Unreal Engine 5.
 I decided to make this reference guide as I find myself always trying to recreate the items/objects/actions in this list. This is a WIP as I'll be updating this as I find more tutorials with basic, maybe crucial, information.
 
 ## 1. How-To: Add Input Mappings to Player, Add Camera Input, Add Movement Input, Add Jump Input
+YouTube Video Tutorial: https://www.youtube.com/watch?v=Z9zEEY7dGaM&t=759s
 
 
 ## 5. How-To: Add Sprint Input
