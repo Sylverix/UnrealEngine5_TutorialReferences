@@ -3,7 +3,7 @@ This repository contains a README file of `How-Tos` for Unreal Engine 5. As I'm 
 
 I decided to make this reference guide because I often find myself recreating the same items, objects, and actions in various learning projects. This is a work in progress, and I'll continue to update it with more tutorials featuring basic and potentially crucial information.
 
-There will also be sections that I've custom-created based on my own experiments when trying to get things to work, especially when I haven't found any good YouTube tutorials. For example: `4. How-To: Add Sprint Animation Locomotion (WIP) (Photos Only ATM)`.
+There will also be sections that I've custom-created based on my own experiments when trying to get things to work, especially when I haven't found any good YouTube tutorials regarding the topic. For example: `4. How-To: Add Sprint Animation Locomotion (WIP) (Photos Only ATM)`.
 
 Please note that this README file is specifically tailored to work with the `Third Person Template` in the Unreal Engine launcher.
 
