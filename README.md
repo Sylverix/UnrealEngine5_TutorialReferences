@@ -1,4 +1,4 @@
-# Unreal Engine5 Tutorial References
+# Unreal Engine 5 Tutorial References
 This is a repository that houses a README file of "How-Tos" for Unreal Engine 5. I'm currently trying to learn Unreal Engine 5 and wanted to make a pseudo knowledge base for tutorials that I've discovered that were basic and easy to comprehend.
 
 I decided to make this reference guide as I find myself always trying to recreate the items/objects/actions in this list. This is a WIP as I'll be updating this as I find more tutorials with basic, maybe crucial, information.
