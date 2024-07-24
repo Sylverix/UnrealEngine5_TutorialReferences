@@ -50,3 +50,5 @@ This setup will determine if the character is sprinting by checking if the curre
 ![image](https://github.com/user-attachments/assets/da0de004-4f3a-4ec0-857d-cdb52021e8df)
 ![image](https://github.com/user-attachments/assets/0445d8a4-893c-46c1-a450-f06216fd12ac)
 
+## 5. How-To: Add Dash Input
+YouTube Video Tutorial: https://www.youtube.com/watch?v=TkSiasE0p_I&list=PLFuQoM4mOizQ89-INdN3eJv1P-r1tnCJM&index=3
