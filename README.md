@@ -26,6 +26,7 @@ Animation used: https://www.mixamo.com/#/?page=1&query=sprint&type=Motion%2CMoti
 
 ### Steps involving pictures at the moment:
 _The following steps are based of the knowledge and testing of what I learned from `How-To: Add Crouch Input`._
+
 **Step 1:**
 
 1. Open the `Animation Blueprint` and add a new pin to the `Sequence` node in the `Event Graph`.
