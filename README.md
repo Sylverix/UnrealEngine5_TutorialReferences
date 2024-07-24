@@ -24,8 +24,15 @@ Animation used: https://www.mixamo.com/#/?page=1&query=sprint&type=Motion%2CMoti
 ![image](https://github.com/user-attachments/assets/85dd83b3-08c7-46ca-9e2d-6eac3ae36ea9)
 
 ### Steps involving pictures at the moment:
-*Step 1:*
-To modify the base `Third Person` character to utilize a `Sprint` animation, go into the `Animation Blueprint` and add a new pin to the `Sequence` node. Then, create a new boolean variable called `IsSprinting`, drag it into the canvas as a `Set` node, and connect it to the new pin you've created in the `Sequence` node. Then, create a new float variable and call it `MaxWalkSpeed`. Drag `GroundSpeed` and `MaxWalkSpeed` into the canvas and add a `Greater Than` node. Connect the `GroundSpeed` varaible to the top pin of the `GreaterThan` node and connect the `MaxWalkSpeed` node to the bottom pin. Then, connect the output pin to the `IsSprinting` node. Basically, what we are saying is that if the current `GroundSpeed` is greater than the `MaxWalkSpeed`, then we are sprinting.
+**Step 1:** To modify the base Third Person character to use a Sprint animation, follow these steps:
+
+1. Open the `Animation Blueprint` and add a new pin to the `Sequence` node.
+2. Create a boolean variable called `IsSprinting` and drag it onto the canvas as a `Set` node. Connect it to the new pin on the `Sequence` node.
+3. Create a float variable called `MaxWalkSpeed`. Give the `MaxWalkSpeed` variable a value of `500` as that is the default character's `MaxWalkSpeed`. Drag `GroundSpeed` and `MaxWalkSpeed` onto the canvas and add a `Greater Than` node.
+4. Connect `GroundSpeed` to the top pin and `MaxWalkSpeed` to the bottom pin of the `Greater Than` node.
+5. Connect the output pin of the `Greater Than` node to the `IsSprinting` node.
+
+This setup will determine if the character is sprinting by checking if the current GroundSpeed is greater than MaxWalkSpeed.
 ![image](https://github.com/user-attachments/assets/e16e4fce-6548-4d34-ad65-068795b18ca7)
 ![image](https://github.com/user-attachments/assets/10cc6bee-a86b-4e36-8435-8114cb9b7331)
 ![image](https://github.com/user-attachments/assets/cc4cdbbf-7721-4df5-b908-9aa293117fb8)
