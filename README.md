@@ -25,7 +25,7 @@ Animation used: https://www.mixamo.com/#/?page=1&query=sprint&type=Motion%2CMoti
 
 ### Steps involving pictures at the moment:
 *Step 1:*
-To modify the base `Third Person` character to utilize a `Sprint` animation, go into the `Animation Blueprint` and add a new pin to the `Sequence` node.
+To modify the base `Third Person` character to utilize a `Sprint` animation, go into the `Animation Blueprint` and add a new pin to the `Sequence` node. Then, create a new boolean variable called `IsSprinting`, drag it into the canvas as a `Set` node, and connect it to the new pin you've created in the `Sequence` node. Then, create a new float variable and call it `MaxWalkSpeed`. Drag `GroundSpeed` and `MaxWalkSpeed` into the canvas and add a `Greater Than` node. Connect the `GroundSpeed` varaible to the top pin of the `GreaterThan` node and connect the `MaxWalkSpeed` node to the bottom pin. Then, connect the output pin to the `IsSprinting` node. Basically, what we are saying is that if the current `GroundSpeed` is greater than the `MaxWalkSpeed`, then we are sprinting.
 ![image](https://github.com/user-attachments/assets/e16e4fce-6548-4d34-ad65-068795b18ca7)
 ![image](https://github.com/user-attachments/assets/10cc6bee-a86b-4e36-8435-8114cb9b7331)
 ![image](https://github.com/user-attachments/assets/cc4cdbbf-7721-4df5-b908-9aa293117fb8)
