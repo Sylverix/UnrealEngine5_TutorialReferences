@@ -33,6 +33,7 @@ Animation used: https://www.mixamo.com/#/?page=1&query=sprint&type=Motion%2CMoti
 5. Connect the output pin of the `Greater Than` node to the `IsSprinting` node.
 
 This setup will determine if the character is sprinting by checking if the current GroundSpeed is greater than MaxWalkSpeed.
+
 ![image](https://github.com/user-attachments/assets/e16e4fce-6548-4d34-ad65-068795b18ca7)
 ![image](https://github.com/user-attachments/assets/10cc6bee-a86b-4e36-8435-8114cb9b7331)
 ![image](https://github.com/user-attachments/assets/cc4cdbbf-7721-4df5-b908-9aa293117fb8)
