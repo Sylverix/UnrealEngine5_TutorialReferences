@@ -26,13 +26,14 @@ Animation used: https://www.mixamo.com/#/?page=1&query=sprint&type=Motion%2CMoti
 ### Steps involving pictures at the moment:
 **Step 1:** To modify the base Third Person character to use a Sprint animation, follow these steps:
 
-1. Open the `Animation Blueprint` and add a new pin to the `Sequence` node.
+1. Open the `Animation Blueprint` and add a new pin to the `Sequence` node in the `Event Graph`.
 2. Create a boolean variable called `IsSprinting` and drag it onto the canvas as a `Set` node. Connect it to the new pin on the `Sequence` node.
 3. Create a float variable called `MaxWalkSpeed`. Give the `MaxWalkSpeed` variable a value of `500` as that is the default character's `MaxWalkSpeed`. Drag `GroundSpeed` and `MaxWalkSpeed` onto the canvas and add a `Greater Than` node.
 4. Connect `GroundSpeed` to the top pin and `MaxWalkSpeed` to the bottom pin of the `Greater Than` node.
 5. Connect the output pin of the `Greater Than` node to the `IsSprinting` node.
 
 This setup will determine if the character is sprinting by checking if the current GroundSpeed is greater than MaxWalkSpeed.
+
 ![image](https://github.com/user-attachments/assets/e16e4fce-6548-4d34-ad65-068795b18ca7)
 ![image](https://github.com/user-attachments/assets/10cc6bee-a86b-4e36-8435-8114cb9b7331)
 ![image](https://github.com/user-attachments/assets/cc4cdbbf-7721-4df5-b908-9aa293117fb8)
